@@ -1,0 +1,15 @@
+Ej.,Cielo,Temperatura,Humedad,Viento,Jugar tenis
+D1,Sol,Alta,Alta,Débil,No
+D2,Sol,Alta,Alta,Fuerte,No
+D3,Nubes,Alta,Alta,Débil,Si
+D4,Lluvia,Suave,Alta,Débil,Si
+D5,Lluvia,Baja,Normal,Débil,Si
+D6,Lluvia,Baja,Normal,Fuerte,No
+D7,Nubes,Baja,Normal,Fuerte,Si
+D8,Sol,Suave,Alta,Débil,No
+D9,Sol,Baja,Normal,Débil,Si
+D10,Lluvia,Suave,Normal,Débil,Si
+D11,Sol,Suave,Normal,Fuerte,Si
+D12,Nubes,Suave,Alta,Fuerte,Si
+D13,Nubes,Alta,Normal,Débil,Si
+D14,Lluvia,Suave,Alta,Fuerte,No
